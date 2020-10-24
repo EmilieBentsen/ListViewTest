@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "599047476471",
+    "firebase_url": "https://noteapp-30950.firebaseio.com",
+    "project_id": "noteapp-30950",
+    "storage_bucket": "noteapp-30950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599047476471:android:43c21a4db07aba5e67aff2",
+        "android_client_info": {
+          "package_name": "com.example.ListViewTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599047476471-3jf6psanchp95275vkd0bm07lpaj68i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS3-CKkV8M3ZZY1g5Ynz6hVw76Tm5NPvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599047476471-3jf6psanchp95275vkd0bm07lpaj68i1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599047476471-f6pph2dpanojrmrfqf1hiatgolf1jsii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emilie.NoteApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599047476471:android:da149c1de331734967aff2",
+        "android_client_info": {
+          "package_name": "com.example.listviewtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599047476471-3jf6psanchp95275vkd0bm07lpaj68i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS3-CKkV8M3ZZY1g5Ynz6hVw76Tm5NPvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599047476471-3jf6psanchp95275vkd0bm07lpaj68i1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599047476471-f6pph2dpanojrmrfqf1hiatgolf1jsii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emilie.NoteApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
