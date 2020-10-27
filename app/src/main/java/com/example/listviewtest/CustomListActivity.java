@@ -7,6 +7,10 @@ import android.widget.ListView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.listviewtest.DetailActivity;
+import com.example.listviewtest.MyAdapter;
+import com.example.listviewtest.R;
+import com.example.listviewtest.Updatable;
 import com.example.listviewtest.global.Global;
 import com.example.listviewtest.model.Note;
 import com.example.listviewtest.repo.Repo;

@@ -54,5 +54,12 @@ public class Repo {
     public List<Note> notes() {
         return noteList;
     }
+
+    public void delete(Note note) {
+        DocumentReference ref = db.collection(NOTES).document(note.getId()); // opret nyt dokument i
+        // Firebase, hvor vi selv angiver document id.
+        ref.delete();
+
+    }
     // plus de andre CRUD metoder
 }
